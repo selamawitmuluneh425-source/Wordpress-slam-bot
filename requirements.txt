@@ -1,0 +1,3 @@
+pyTelegrambotAPI
+openai
+requests
