@@ -124,7 +124,7 @@ def handle(message):
     except Exception as e:
         bot.reply_to(message, f"❌ ስህተት: {str(e)}")
 
-bot.infinity_polling()BOT_TOKEN=your_telegram_token
+bot.infinity_polling()
 OPENAI_API_KEY=your_openai_key
 WP_URL=https://selamawitmuluneh425-iufxs.wordpress.com?ref=agent_telegram
 WP_USER=selamawitmuluneh425
